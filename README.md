@@ -1,5 +1,5 @@
 # 💫 Hey, I'm Gerald:
-🔭I'm currently working on cybersecurity systems with AI integration<br>🤝 I’m looking for help with improving my skills efficiency-wise<br>🌱 I’m currently learning python, javascript<br>💬 Ask me about anything. I don't bite😁<br>⚡ Fun fact. I also play a lotta chess<br>📍Takoradi, Ghana
+🔭I'm currently working on cybersecurity systems with AI integration<br>🤝 I’m looking for help with improving my skills efficiency-wise<br>🌱 I’m currently learning python, javascript<br>💬 Ask me about anything. I don't bite😁<br>⚡ Fun fact. I am an intermediate chess player<br>📍Takoradi, Ghana
 
 
 ## 🌐 Socials:
